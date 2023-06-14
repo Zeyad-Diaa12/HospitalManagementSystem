@@ -1,0 +1,17 @@
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Utilites\obj\Debug\net7.0\Hospital.Utilites.csproj.AssemblyReference.cache
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Utilites\obj\Debug\net7.0\Hospital.Utilites.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Utilites\obj\Debug\net7.0\Hospital.Utilites.AssemblyInfoInputs.cache
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Utilites\obj\Debug\net7.0\Hospital.Utilites.AssemblyInfo.cs
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Utilites\obj\Debug\net7.0\Hospital.Utilites.csproj.CoreCompileInputs.cache
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Utilites\bin\Debug\net7.0\Hospital.Utilites.deps.json
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Utilites\bin\Debug\net7.0\Hospital.Utilites.dll
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Utilites\bin\Debug\net7.0\Hospital.Utilites.pdb
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Utilites\bin\Debug\net7.0\Hospital.Models.dll
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Utilites\bin\Debug\net7.0\Hospital.Repositories.dll
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Utilites\bin\Debug\net7.0\Hospital.Models.pdb
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Utilites\bin\Debug\net7.0\Hospital.Repositories.pdb
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Utilites\obj\Debug\net7.0\Hospital.Utilites.csproj.CopyComplete
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Utilites\obj\Debug\net7.0\Hospital.Utilites.dll
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Utilites\obj\Debug\net7.0\refint\Hospital.Utilites.dll
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Utilites\obj\Debug\net7.0\Hospital.Utilites.pdb
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Utilites\obj\Debug\net7.0\ref\Hospital.Utilites.dll

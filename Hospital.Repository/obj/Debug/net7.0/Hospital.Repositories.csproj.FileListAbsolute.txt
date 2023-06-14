@@ -1,0 +1,17 @@
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Repository\bin\Debug\net7.0\Hospital.Repositories.deps.json
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Repository\bin\Debug\net7.0\Hospital.Repositories.runtimeconfig.json
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Repository\bin\Debug\net7.0\Hospital.Repositories.dll
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Repository\bin\Debug\net7.0\Hospital.Repositories.pdb
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Repository\obj\Debug\net7.0\Hospital.Repositories.csproj.AssemblyReference.cache
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Repository\obj\Debug\net7.0\Hospital.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Repository\obj\Debug\net7.0\Hospital.Repositories.AssemblyInfoInputs.cache
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Repository\obj\Debug\net7.0\Hospital.Repositories.AssemblyInfo.cs
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Repository\obj\Debug\net7.0\Hospital.Repositories.csproj.CoreCompileInputs.cache
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Repository\obj\Debug\net7.0\Hospital.Repositories.dll
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Repository\obj\Debug\net7.0\refint\Hospital.Repositories.dll
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Repository\obj\Debug\net7.0\Hospital.Repositories.pdb
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Repository\obj\Debug\net7.0\Hospital.Repositories.genruntimeconfig.cache
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Repository\obj\Debug\net7.0\ref\Hospital.Repositories.dll
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Repository\bin\Debug\net7.0\Hospital.Models.dll
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Repository\bin\Debug\net7.0\Hospital.Models.pdb
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.Repository\obj\Debug\net7.0\Hospital.Repositories.csproj.CopyComplete

@@ -1,0 +1,15 @@
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.ViewModels\bin\Debug\net7.0\Hospital.ViewModels.deps.json
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.ViewModels\bin\Debug\net7.0\Hospital.ViewModels.dll
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.ViewModels\bin\Debug\net7.0\Hospital.ViewModels.pdb
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.ViewModels\obj\Debug\net7.0\Hospital.ViewModels.csproj.AssemblyReference.cache
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.ViewModels\obj\Debug\net7.0\Hospital.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.ViewModels\obj\Debug\net7.0\Hospital.ViewModels.AssemblyInfoInputs.cache
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.ViewModels\obj\Debug\net7.0\Hospital.ViewModels.AssemblyInfo.cs
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.ViewModels\obj\Debug\net7.0\Hospital.ViewModels.csproj.CoreCompileInputs.cache
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.ViewModels\obj\Debug\net7.0\Hospital.ViewModels.dll
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.ViewModels\obj\Debug\net7.0\refint\Hospital.ViewModels.dll
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.ViewModels\obj\Debug\net7.0\Hospital.ViewModels.pdb
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.ViewModels\obj\Debug\net7.0\ref\Hospital.ViewModels.dll
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.ViewModels\bin\Debug\net7.0\Hospital.Models.dll
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.ViewModels\bin\Debug\net7.0\Hospital.Models.pdb
+D:\ASP.NET Projects\HospitalManagementSystem\Hospital.ViewModels\obj\Debug\net7.0\Hospital.ViewModels.csproj.CopyComplete

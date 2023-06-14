@@ -1,0 +1,460 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ASP.NET Projects\\HospitalManagementSystem\\HospitalManagementSystem\\Hospital.Web.csproj": {}
+  },
+  "projects": {
+    "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Models\\Hospital.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Models\\Hospital.Models.csproj",
+        "projectName": "Hospital.Models",
+        "projectPath": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Models\\Hospital.Models.csproj",
+        "packagesPath": "C:\\Users\\zeyad\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zeyad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Repository\\Hospital.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Repository\\Hospital.Repositories.csproj",
+        "projectName": "Hospital.Repositories",
+        "projectPath": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Repository\\Hospital.Repositories.csproj",
+        "packagesPath": "C:\\Users\\zeyad\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zeyad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Models\\Hospital.Models.csproj": {
+                "projectPath": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Models\\Hospital.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Services\\Hospital.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Services\\Hospital.Services.csproj",
+        "projectName": "Hospital.Services",
+        "projectPath": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Services\\Hospital.Services.csproj",
+        "packagesPath": "C:\\Users\\zeyad\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zeyad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Utilites\\Hospital.Utilites.csproj": {
+                "projectPath": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Utilites\\Hospital.Utilites.csproj"
+              },
+              "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.ViewModels\\Hospital.ViewModels.csproj": {
+                "projectPath": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.ViewModels\\Hospital.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Utilites\\Hospital.Utilites.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Utilites\\Hospital.Utilites.csproj",
+        "projectName": "Hospital.Utilites",
+        "projectPath": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Utilites\\Hospital.Utilites.csproj",
+        "packagesPath": "C:\\Users\\zeyad\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Utilites\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zeyad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Models\\Hospital.Models.csproj": {
+                "projectPath": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Models\\Hospital.Models.csproj"
+              },
+              "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Repository\\Hospital.Repositories.csproj": {
+                "projectPath": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Repository\\Hospital.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.ViewModels\\Hospital.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.ViewModels\\Hospital.ViewModels.csproj",
+        "projectName": "Hospital.ViewModels",
+        "projectPath": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.ViewModels\\Hospital.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\zeyad\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zeyad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Models\\Hospital.Models.csproj": {
+                "projectPath": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Models\\Hospital.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ASP.NET Projects\\HospitalManagementSystem\\HospitalManagementSystem\\Hospital.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP.NET Projects\\HospitalManagementSystem\\HospitalManagementSystem\\Hospital.Web.csproj",
+        "projectName": "Hospital.Web",
+        "projectPath": "D:\\ASP.NET Projects\\HospitalManagementSystem\\HospitalManagementSystem\\Hospital.Web.csproj",
+        "packagesPath": "C:\\Users\\zeyad\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP.NET Projects\\HospitalManagementSystem\\HospitalManagementSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zeyad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Repository\\Hospital.Repositories.csproj": {
+                "projectPath": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Repository\\Hospital.Repositories.csproj"
+              },
+              "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Services\\Hospital.Services.csproj": {
+                "projectPath": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Services\\Hospital.Services.csproj"
+              },
+              "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Utilites\\Hospital.Utilites.csproj": {
+                "projectPath": "D:\\ASP.NET Projects\\HospitalManagementSystem\\Hospital.Utilites\\Hospital.Utilites.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "cloudscribe.Web.Pagination": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
